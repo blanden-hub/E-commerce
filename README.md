@@ -6,7 +6,7 @@
   SO THAT my company can compete with other e-commerce companies
 
   ## Walkthrough Video
-  
+  https://drive.google.com/file/d/1VB0fflqhkxQ6jTz-jys0nttjLsv8MPFo/view
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
